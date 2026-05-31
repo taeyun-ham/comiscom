@@ -597,9 +597,23 @@ img { max-width: 100%; display: block; }
 }
 
 .slogan-icon {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   flex-shrink: 0;
-  margin-top: 2px;
+  margin-right: 12px;
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  background: var(--color-primary-glow);
+  border-radius: var(--radius-md);
+  transition: all var(--transition);
+}
+
+.slogan-card:hover .slogan-icon {
+  transform: scale(1.1);
+  background: rgba(88, 166, 255, 0.25);
 }
 
 .slogan-label {
@@ -804,21 +818,45 @@ img { max-width: 100%; display: block; }
 }
 
 .check-do, .check-dont {
-  font-size: 0.8rem;
-  padding: 4px 8px;
-  border-radius: 4px;
+  font-size: 0.85rem;
+  padding: 8px 12px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: all var(--transition);
 }
 
 .check-do {
   background: var(--color-accent-glow);
   color: var(--color-accent);
-  border: 1px solid rgba(63,185,80,0.2);
+  border: 1px solid rgba(63,185,80,0.3);
+}
+
+.check-do:hover {
+  background: rgba(63,185,80,0.2);
+  border-color: var(--color-accent);
+}
+
+.check-do i {
+  flex-shrink: 0;
+  font-size: 1rem;
 }
 
 .check-dont {
   background: rgba(248,81,73,0.08);
   color: var(--color-error);
-  border: 1px solid rgba(248,81,73,0.15);
+  border: 1px solid rgba(248,81,73,0.2);
+}
+
+.check-dont:hover {
+  background: rgba(248,81,73,0.15);
+  border-color: var(--color-error);
+}
+
+.check-dont i {
+  flex-shrink: 0;
+  font-size: 1rem;
 }
 
 /* ============================================================
@@ -916,6 +954,12 @@ img { max-width: 100%; display: block; }
   color: var(--color-text);
 }
 
+.conduct-icon-checked {
+  color: var(--color-accent);
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
 /* Dual Cards */
 .culture-dual {
   display: grid;
@@ -947,7 +991,20 @@ img { max-width: 100%; display: block; }
   color: var(--color-text);
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 12px;
+}
+
+.culture-card-icon {
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.culture-card.pride .culture-card-icon {
+  color: var(--color-accent);
+}
+
+.culture-card.watch .culture-card-icon {
+  color: var(--color-error);
 }
 
 .culture-card-list li {
@@ -956,6 +1013,22 @@ img { max-width: 100%; display: block; }
   color: var(--color-text-muted);
   border-bottom: 1px solid var(--color-bg-3);
   line-height: 1.6;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.culture-card-list li i {
+  flex-shrink: 0;
+  font-size: 1rem;
+}
+
+.culture-card.pride .culture-card-list li i {
+  color: var(--color-accent);
+}
+
+.culture-card.watch .culture-card-list li i {
+  color: var(--color-error);
 }
 
 .culture-card-list li:last-child { border-bottom: none; }
@@ -1304,6 +1377,48 @@ img { max-width: 100%; display: block; }
 .tag-pg      { background: rgba(51,103,145,0.15); color: #58a6ff; border: 1px solid rgba(51,103,145,0.3); }
 .tag-aws     { background: rgba(255,153,0,0.12);  color: #ff9900; border: 1px solid rgba(255,153,0,0.25); }
 .tag-docker  { background: rgba(13,183,237,0.12); color: #0db7ed; border: 1px solid rgba(13,183,237,0.25); }
+
+/* More Projects Indicator */
+.projects-more-indicator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 32px 0 16px;
+  opacity: 0.6;
+  transition: opacity var(--transition);
+}
+
+.projects-more-indicator:hover {
+  opacity: 1;
+}
+
+.projects-more-indicator .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-primary);
+  animation: bounce 1.4s infinite ease-in-out;
+}
+
+.projects-more-indicator .dot:nth-child(1) {
+  animation-delay: -0.32s;
+}
+
+.projects-more-indicator .dot:nth-child(2) {
+  animation-delay: -0.16s;
+}
+
+@keyframes bounce {
+  0%, 80%, 100% {
+    transform: scale(0.8);
+    opacity: 0.5;
+  }
+  40% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
 
 .timeline-content p {
   font-size: 0.85rem;
