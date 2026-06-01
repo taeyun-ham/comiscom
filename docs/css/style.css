@@ -59,7 +59,7 @@ html {
 }
 
 body {
-  font-family: var(--font-sans);
+  font-family: "Pretendard", sans-serif;
   background-color: var(--color-bg);
   color: var(--color-text);
   line-height: 1.7;
@@ -232,6 +232,7 @@ img {
   display: flex;
   align-items: center;
   gap: 6px;
+  padding-bottom: 8px;
 }
 
 .nav-logo:hover {
@@ -1886,12 +1887,13 @@ a.contact-value:hover {
 }
 
 .footer-logo {
-  font-family: var(--font-mono);
+  font-family: "Marcellus", serif;
   font-size: 1.1rem;
   font-weight: 600;
   color: var(--color-primary);
   display: block;
   margin-bottom: 12px;
+  text-transform: uppercase;
 }
 
 .footer-brand p {
@@ -2272,4 +2274,13 @@ a.contact-value:hover {
     padding: 8px 16px;
     font-size: 0.85rem;
   }
+}
+
+.brand-name {
+  font-family: "Marcellus", serif;
+  font-size: 16px;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: #f5f1ea;
+  padding-top: 8px;
 }

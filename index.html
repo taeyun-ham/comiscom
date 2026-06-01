@@ -5,10 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>커밋이즈커밍 | Commit is Coming</title>
   <meta name="description" content="진심을 커밋하고, 내일을 배포한다. 소프트웨어 개발 커밋이즈커밍 공식 홈페이지입니다." />
-  <!-- Google Fonts -->
+  <!-- Google Fonts
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
+   -->
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Pretendard:wght@300;400;500&family=Marcellus&display=swap" rel="stylesheet">
+
   <!-- Main CSS -->
   <link rel="stylesheet" href="css/style.css" />
 </head>
@@ -18,8 +23,12 @@
   <header id="site-header" class="site-header">
     <nav class="nav-container">
       <a href="#hero" class="nav-logo">
-        <span class="logo-symbol">&gt;_</span>
-        <span class="logo-text">commit is coming</span>
+        <svg width="34" height="19" viewBox="0 0 80 44">
+          <line x1="4" y1="36" x2="76" y2="36" stroke="#F5F1EA" stroke-width="1.5"/>
+          <circle cx="40" cy="36" r="12" stroke="#F5F1EA" stroke-width="1.5" fill="none"/>
+          <path d="M 28 36 A 12 12 0 0 1 52 36 Z" fill="#F5F1EA"/>
+        </svg>
+        <span class="brand-name">commit is coming</span>
       </a>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
@@ -627,7 +636,14 @@
     <div class="container">
       <div class="footer-top">
         <div class="footer-brand">
-          <span class="footer-logo">&gt;_ commit is coming</span>
+          <a href="#hero"  class="footer-logo">
+            <svg width="34" height="19" viewBox="0 0 80 44">
+              <line x1="4" y1="36" x2="76" y2="36" stroke="var(--color-primary)" stroke-width="1.5"/>
+              <circle cx="40" cy="36" r="12" stroke="var(--color-primary)" stroke-width="1.5" fill="none"/>
+              <path d="M 28 36 A 12 12 0 0 1 52 36 Z" fill="var(--color-primary)"/>
+            </svg>
+           <span>commit is coming</span>
+          </a>
           <p>진심을 커밋하고, 내일을 배포한다</p>
           <p class="footer-en">Commit with heart, deliver tomorrow.</p>
         </div>
