@@ -21,7 +21,7 @@
  h1{font-size:28px}
  .intro p:not(.eyebrow){margin:6px 0 0;font-size:12px}
  .upload{padding:9px 14px}
- #map{height:clamp(160px,24vh,280px)}
+ #map{height:420px}
  .map-tools{padding:7px 12px}
  #map-status{font-size:11px;line-height:1.4;margin:5px 0;padding:0 12px}
  aside{max-height:calc(100vh - 145px);display:flex;flex-direction:column}
@@ -32,8 +32,10 @@
  .stats strong{font-size:15px}
 }
 @media(max-width:720px){
- #map{height:240px}
+ #map{height:340px}
  .detail{padding:12px}
  .chart-tools{gap:8px}
  .chart-wrap{height:150px}
 }
+
+.tracking-point{width:14px;height:14px;border-radius:50%;background:#ef2929;border:2px solid #fff;box-shadow:0 0 0 3px rgba(239,41,41,.25),0 2px 6px #0006;pointer-events:none}
