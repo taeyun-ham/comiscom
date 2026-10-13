@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="kakaomap-route" xmlns:km="http://www.topografix.com/GPX/1/1">
+    <metadata>
+        <name>kakaomap</name>
+        <description>iOS,27.0.1,iPhone18,2,6.29.3</description>
+        <time>2026-10-13T15:15:38Z</time>
+    </metadata>
+    <wpt lat="37.55697312158369" lon="126.6038316624561">
+        <name>아라서해갑문 인증센터</name>
+        <extensions>
+            <kakaomap-meta>
+                <route_type>START</route_type>
+                <poi_type>PLACE</poi_type>
+                <key>21189072</key>
+            </kakaomap-meta>
+        </extensions>
+    </wpt>
+    <wpt lat="37.59877050310768" lon="126.80036437069275">
+        <name>아라한강갑문 인증센터</name>
+        <extensions>
+            <kakaomap-meta>
+                <route_type>END</route_type>
+                <poi_type>PLACE</poi_type>
+                <key>21189067</key>
+            </kakaomap-meta>
+        </extensions>
+    </wpt>
+    <trk>
+        <trkseg>
+            <trkpt lat="37.55697312" lon="126.60383166">
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NONE</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55691865" lon="126.60410876">
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NONE</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55691865" lon="126.60410876">
+                <ele>8.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55685571" lon="126.60415836">
+                <ele>8.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55491116" lon="126.60669996">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55491116" lon="126.60669996">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55507589" lon="126.60690474">
+                <ele>10.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55509485" lon="126.60694678">
+                <ele>10.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5551527" lon="126.60749098">
+                <ele>11.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55520919" lon="126.60827164">
+                <ele>9.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55526913" lon="126.6089427">
+                <ele>8.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55526671" lon="126.60902326">
+                <ele>8.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55524281" lon="126.60912475">
+                <ele>8.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55504644" lon="126.60957544">
+                <ele>8.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55497941" lon="126.60991686">
+                <ele>9.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55497273" lon="126.61005741">
+                <ele>9.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55499556" lon="126.61024938">
+                <ele>9.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55510142" lon="126.61066512">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55515615" lon="126.61098099">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55516995" lon="126.61112997">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5551737" lon="126.61188408">
+                <ele>9.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55522479" lon="126.6121999">
+                <ele>9.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55522479" lon="126.6121999">
+                <ele>9.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55532687" lon="126.61377371">
+                <ele>7.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55542973" lon="126.61518604">
+                <ele>6.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55546321" lon="126.61546084">
+                <ele>6.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55571046" lon="126.61675673">
+                <ele>5.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55621066" lon="126.61951355">
+                <ele>3.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55662291" lon="126.62157643">
+                <ele>2.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55662291" lon="126.62157643">
+                <ele>2.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55671964" lon="126.62185798">
+                <ele>2.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55689159" lon="126.622182">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55689159" lon="126.622182">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5570846" lon="126.62201373">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5570846" lon="126.62201373">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55705051" lon="126.62195668">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55704764" lon="126.62193669">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5570587" lon="126.62192186">
+                <ele>1.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55991544" lon="126.62061883">
+                <ele>1.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55993055" lon="126.62062054">
+                <ele>1.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55998283" lon="126.62065854">
+                <ele>1.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.55998283" lon="126.62065854">
+                <ele>1.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56041595" lon="126.62218915">
+                <ele>1.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56046753" lon="126.62228017">
+                <ele>1.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5605464" lon="126.62236363">
+                <ele>1.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56062981" lon="126.62241148">
+                <ele>1.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56077532" lon="126.62243781">
+                <ele>1.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56143889" lon="126.62217613">
+                <ele>1.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56331793" lon="126.6213917">
+                <ele>2.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56364079" lon="126.62116416">
+                <ele>2.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56452275" lon="126.62046231">
+                <ele>2.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56452275" lon="126.62046231">
+                <ele>2.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56460456" lon="126.6203972">
+                <ele>2.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56461968" lon="126.62039475">
+                <ele>2.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56463088" lon="126.62040774">
+                <ele>2.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56467353" lon="126.62053844">
+                <ele>2.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56476488" lon="126.62057932">
+                <ele>3.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56476488" lon="126.62057932">
+                <ele>3.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56493665" lon="126.62040339">
+                <ele>3.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56493665" lon="126.62040339">
+                <ele>3.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56511668" lon="126.62087856">
+                <ele>3.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56529442" lon="126.62148809">
+                <ele>3.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56533052" lon="126.62176529">
+                <ele>3.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56536937" lon="126.62191633">
+                <ele>4.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56549936" lon="126.62219147">
+                <ele>4.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56670092" lon="126.62650349">
+                <ele>8.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5671244" lon="126.62807958">
+                <ele>10.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56718528" lon="126.62839837">
+                <ele>11.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56716869" lon="126.62862213">
+                <ele>11.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56890121" lon="126.63514598">
+                <ele>15.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56890121" lon="126.63514598">
+                <ele>15.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56911903" lon="126.63526228">
+                <ele>15.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56920211" lon="126.63531591">
+                <ele>15.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56921809" lon="126.63534493">
+                <ele>15.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56964272" lon="126.63676976">
+                <ele>13.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.56986655" lon="126.63769717">
+                <ele>11.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5700435" lon="126.63864542">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5701694" lon="126.63960631">
+                <ele>13.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57021332" lon="126.64008973">
+                <ele>13.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57041384" lon="126.64378183">
+                <ele>12.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57050687" lon="126.64569151">
+                <ele>11.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.570547" lon="126.6463533">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57051565" lon="126.64659318">
+                <ele>10.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57048347" lon="126.64672072">
+                <ele>10.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57051061" lon="126.64751558">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5705112" lon="126.64768852">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57088308" lon="126.65251591">
+                <ele>10.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57150622" lon="126.6609725">
+                <ele>13.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57148893" lon="126.66140667">
+                <ele>14.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57161391" lon="126.66308955">
+                <ele>13.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57166758" lon="126.6632769">
+                <ele>13.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57173353" lon="126.66418147">
+                <ele>12.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57174402" lon="126.66524374">
+                <ele>12.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57170886" lon="126.66639312">
+                <ele>11.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57136931" lon="126.67029985">
+                <ele>10.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5712089" lon="126.67072716">
+                <ele>10.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57109843" lon="126.67190383">
+                <ele>11.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57109214" lon="126.67203478">
+                <ele>11.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57116303" lon="126.67256909">
+                <ele>11.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57095025" lon="126.67480251">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57078794" lon="126.67525596">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57077565" lon="126.67535505">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57075574" lon="126.67586465">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57068265" lon="126.67621324">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57061709" lon="126.67667822">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57047037" lon="126.67802769">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57039372" lon="126.68007589">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5704106" lon="126.68015135">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57063159" lon="126.68049409">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57064938" lon="126.68055088">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57067214" lon="126.68354072">
+                <ele>12.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57067787" lon="126.68380715">
+                <ele>12.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57076351" lon="126.68509702">
+                <ele>15.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5707718" lon="126.68579022">
+                <ele>16.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57083153" lon="126.68611533">
+                <ele>17.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57087006" lon="126.69053389">
+                <ele>27.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57094178" lon="126.69172872">
+                <ele>31.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57131774" lon="126.70000127">
+                <ele>46.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57150597" lon="126.70423267">
+                <ele>42.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5718562" lon="126.71144355">
+                <ele>30.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57228426" lon="126.72104875">
+                <ele>21.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5722888" lon="126.72157551">
+                <ele>21.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57225837" lon="126.72209563">
+                <ele>21.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57224764" lon="126.72243517">
+                <ele>21.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5723419" lon="126.7237101">
+                <ele>21.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57245356" lon="126.72715614">
+                <ele>18.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57245356" lon="126.72715614">
+                <ele>18.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5725841" lon="126.73010277">
+                <ele>16.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57271825" lon="126.73284766">
+                <ele>14.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57285082" lon="126.73455651">
+                <ele>14.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57298967" lon="126.736631">
+                <ele>13.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57298049" lon="126.73675272">
+                <ele>13.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57290497" lon="126.73701331">
+                <ele>13.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57289002" lon="126.73713634">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57291531" lon="126.73784216">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57291531" lon="126.73784216">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57287997" lon="126.73792855">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57283469" lon="126.73814047">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57280137" lon="126.73843748">
+                <ele>13.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57280137" lon="126.73843748">
+                <ele>13.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57281513" lon="126.73873885">
+                <ele>13.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57282366" lon="126.7388117">
+                <ele>13.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57282366" lon="126.7388117">
+                <ele>13.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57288256" lon="126.73909804">
+                <ele>12.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57295012" lon="126.73929079">
+                <ele>12.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57295012" lon="126.73929079">
+                <ele>12.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57291818" lon="126.73969734">
+                <ele>12.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57292885" lon="126.74044879">
+                <ele>13.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57298553" lon="126.74057763">
+                <ele>12.9</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57299056" lon="126.74085698">
+                <ele>12.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57305477" lon="126.74109783">
+                <ele>12.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57309477" lon="126.74337198">
+                <ele>11.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57319711" lon="126.74593302">
+                <ele>10.3</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57326585" lon="126.74622506">
+                <ele>10.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57324356" lon="126.74653368">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57324263" lon="126.7467582">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57343293" lon="126.75092281">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57346813" lon="126.75137828">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57353941" lon="126.75197395">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57367899" lon="126.75280737">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57377068" lon="126.75349047">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57373141" lon="126.75382884">
+                <ele>12.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57371243" lon="126.75403399">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57371895" lon="126.75424338">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57385082" lon="126.75459372">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57384443" lon="126.75528162">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5738149" lon="126.75568263">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57355674" lon="126.75606504">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57355253" lon="126.75607775">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57354157" lon="126.75623813">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57344705" lon="126.75646598">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5734244" lon="126.75653823">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57342006" lon="126.75661924">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57343337" lon="126.75720071">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57344556" lon="126.75727938">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57354382" lon="126.75755">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57354382" lon="126.75755">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57357519" lon="126.75770835">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57359737" lon="126.75822859">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57373038" lon="126.75883803">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57387442" lon="126.75919314">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57407506" lon="126.75987764">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57425296" lon="126.76032833">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57439115" lon="126.76055668">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57477919" lon="126.76116973">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57494119" lon="126.76137924">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57514893" lon="126.76153795">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57551855" lon="126.76168367">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5759149" lon="126.76245728">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57630422" lon="126.76313332">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57680826" lon="126.76392452">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57680826" lon="126.76392452">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57704755" lon="126.76433507">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5772834" lon="126.76466919">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57802641" lon="126.76564319">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57885238" lon="126.76673938">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57906271" lon="126.76691555">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.57934243" lon="126.76726598">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58011291" lon="126.76827519">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5817788" lon="126.77047409">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5819956" lon="126.77090177">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58227023" lon="126.77126482">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58249097" lon="126.77144263">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58255904" lon="126.77152774">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58263042" lon="126.77158178">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58313227" lon="126.77223113">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58631696" lon="126.77641248">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58832273" lon="126.77903868">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58843777" lon="126.77924427">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.58859066" lon="126.77938521">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59080014" lon="126.78228698">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59215479" lon="126.78407544">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59236967" lon="126.7842987">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59239396" lon="126.78434706">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59240681" lon="126.78443467">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59244773" lon="126.78501637">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59244773" lon="126.78501637">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59243097" lon="126.78514447">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59262153" lon="126.78544761">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59262153" lon="126.78544761">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59264782" lon="126.78549477">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59265107" lon="126.78550811">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5926475" lon="126.78552131">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5921417" lon="126.78637263">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59097671" lon="126.7883599">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59094572" lon="126.78862695">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59074751" lon="126.78894527">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59056931" lon="126.78925666">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59049393" lon="126.78944349">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59042149" lon="126.78981938">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59041805" lon="126.79019056">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59047453" lon="126.79058006">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59053201" lon="126.79078053">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59079752" lon="126.79145929">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59096" lon="126.79197097">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59129846" lon="126.79287622">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59269889" lon="126.79642568">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59269995" lon="126.79644273">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5926912" lon="126.79645585">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59265737" lon="126.79647831">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59265737" lon="126.79647831">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59272216" lon="126.79664885">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59276504" lon="126.79662051">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59277793" lon="126.79661862">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59278848" lon="126.79662811">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59283037" lon="126.79670818">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59283037" lon="126.79670818">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59305302" lon="126.79656961">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59305302" lon="126.79656961">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59325152" lon="126.79710899">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59350576" lon="126.79770799">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59350576" lon="126.79770799">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5936092" lon="126.79798951">
+                <ele>10.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59366241" lon="126.79804733">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59366241" lon="126.79804733">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59381087" lon="126.79804162">
+                <ele>10.7</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59412846" lon="126.7978378">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59439451" lon="126.7977378">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59439451" lon="126.7977378">
+                <ele>10.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59449354" lon="126.79764304">
+                <ele>10.2</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59458736" lon="126.79756296">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5949958" lon="126.7973796">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59551463" lon="126.79715246">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59703257" lon="126.79656844">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59727459" lon="126.7966396">
+                <ele>10.0</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59737929" lon="126.79672945">
+                <ele>10.1</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59760185" lon="126.79699214">
+                <ele>10.8</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59769925" lon="126.7971617">
+                <ele>11.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59777603" lon="126.79734585">
+                <ele>12.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59801682" lon="126.79800256">
+                <ele>13.6</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59871405" lon="126.80000674">
+                <ele>13.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59872808" lon="126.80009779">
+                <ele>13.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>BIKE_MARKED</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59872808" lon="126.80009779">
+                <ele>13.4</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59880057" lon="126.80022675">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59885688" lon="126.80028768">
+                <ele>13.5</ele>
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NO_BIKE_MARK</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.59885688" lon="126.80028768">
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NONE</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+            <trkpt lat="37.5987705" lon="126.80036437">
+                <extensions>
+                    <kakaomap-meta>
+                        <line_type>NONE</line_type>
+                    </kakaomap-meta>
+                </extensions>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

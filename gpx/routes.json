@@ -1,0 +1,51 @@
+[
+  {
+    "name": "아라 자전거길",
+    "file": "data/route-1.gpx"
+  },
+  {
+    "name": "한강종주 자전거길",
+    "file": "data/route-2.gpx"
+  },
+  {
+    "name": "남한강 자전거길",
+    "file": "data/route-3.gpx"
+  },
+  {
+    "name": "북한강 자전거길",
+    "file": "data/route-4.gpx"
+  },
+  {
+    "name": "새재 자전거길",
+    "file": "data/route-5.gpx"
+  },
+  {
+    "name": "낙동강 자전거길",
+    "file": "data/nakdong.gpx"
+  },
+  {
+    "name": "금강 자전거길",
+    "file": "data/route-8.gpx"
+  },
+  {
+    "name": "오천 자전거길",
+    "file": "data/route-9.gpx"
+  },
+  {
+    "name": "섬진강 자전거길",
+    "file": "data/seomjin.gpx"
+  },
+  {
+    "name": "영산강 자전거길",
+    "file": "data/route-12.gpx"
+  },
+  {
+    "name": "동해안 자전거길",
+    "file": "data/east-coast.gpx",
+    "note": "동해안 2·3번 사이 약 28km는 원본 GPX에 경로가 없어 지도에서 연결하지 않습니다. 그래프의 점선은 구간 경계이며 총 거리에는 누락 구간이 포함되지 않습니다."
+  },
+  {
+    "name": "제주환상 자전거길",
+    "file": "data/jeju.gpx"
+  }
+]
