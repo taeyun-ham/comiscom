@@ -40,9 +40,12 @@
     "file": "data/route-12.gpx"
   },
   {
-    "name": "동해안 자전거길",
-    "file": "data/east-coast.gpx",
-    "note": "동해안 2·3번 사이 약 28km는 원본 GPX에 경로가 없어 지도에서 연결하지 않습니다. 그래프의 점선은 구간 경계이며 총 거리에는 누락 구간이 포함되지 않습니다."
+    "name": "동해안 자전거길 (강원)",
+    "file": "data/east-coast-gangwon.gpx"
+  },
+  {
+    "name": "동해안 자전거길 (경북)",
+    "file": "data/route-15.gpx"
   },
   {
     "name": "제주환상 자전거길",
